@@ -46,13 +46,11 @@ def print_with_line_break():
 
 Note that the `print("Hello world!")` line is indented the same as the line above it, which is one tab to the right of the line that says, `def print_with_line_break():`. Keep this indentation.
 
-## Clone this repository
+## Fork and clone this repository
 
-First, clone this repository to your local computer, using Visual Studio Code's cloning feature.
+First, make your own copy of this repository by clicking the `Fork` button towards the top-right of this page on GitHub. This creates a copy, called a fork, in your own GitHub account. You will do all of your work in that copy, since you do not have permission to make changes to this original.
 
-Helpful video:
-
-- [cloning a code repository from GitHub to Visual Studio Code on your local machine](https://www.youtube.com/watch?v=Xyr3cU5FhSQ&list=PL-DdwrWUDZnMCYaUqegGMPKDVJcPn-QJm&index=5).
+Then clone your own fork to your local computer, using Visual Studio Code's cloning feature. Take care to clone your own fork rather than this original repository - the web address of your fork contains your own GitHub username.
 
 ## Set up Visual Studio Code
 
@@ -111,10 +109,12 @@ Helpful video:
 Each student must submit this assignment individually. Use Visual Studio Code to perform git `stage`, `commit` and `push` actions to submit. These actions are all available as menu items in Visual Studio Code's Source Control panel.
 
 1. Type a short note about what you have done to the files in the `Message` area, and then type `Command-Enter` (Mac) or `Control-Enter` (Windows) to perform git `stage` and `commit` actions.
-1. Click the `...` icon next to the words, "`Source Control"` and select "Push" to perform the git `push` action. This will upload your work to your repository on GitHub.com.
+1. Click the `...` icon next to the words, "`Source Control"` and select "Push" to perform the git `push` action. This will upload your work to your own fork on GitHub.com.
 
 ![Pushing work in Visual Studio Code](./images/vscode_stage_commit_push.png)
 
 Helpful video:
 
 - [Submitting work from Visual Studio Code to GitHub](https://www.youtube.com/watch?v=ePIOee1D8Js&list=PL-DdwrWUDZnMCYaUqegGMPKDVJcPn-QJm&index=1)
+
+Finally, post the web address of your fork in your own private channel in the course Discord, so that we know your work is ready to be graded. Work that has been pushed but whose address has never been posted has not been submitted, since we have no way to find it.
