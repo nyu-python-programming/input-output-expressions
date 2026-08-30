@@ -117,4 +117,4 @@ Helpful video:
 
 - [Submitting work from Visual Studio Code to GitHub](https://www.youtube.com/watch?v=ePIOee1D8Js&list=PL-DdwrWUDZnMCYaUqegGMPKDVJcPn-QJm&index=1)
 
-Finally, post the web address of your fork in your own private channel in the course Discord, so that we know your work is ready to be graded. Work that has been pushed but whose address has never been posted has not been submitted, since we have no way to find it.
+Finally, share the web address of your fork using the messaging app specified by your instructor, posting it wherever the instructor has directed you to submit work. Work that has been pushed but whose address has never been shared has not been submitted, since we have no way to find it.
